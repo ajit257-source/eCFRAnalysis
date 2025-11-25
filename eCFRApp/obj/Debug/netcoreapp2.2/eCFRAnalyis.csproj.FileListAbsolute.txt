@@ -1,0 +1,14 @@
+F:\WorkSpace\eCFRAnalysis\eCFRApp\bin\Debug\netcoreapp2.2\eCFRAnalyis.deps.json
+F:\WorkSpace\eCFRAnalysis\eCFRApp\bin\Debug\netcoreapp2.2\eCFRAnalyis.runtimeconfig.json
+F:\WorkSpace\eCFRAnalysis\eCFRApp\bin\Debug\netcoreapp2.2\eCFRAnalyis.runtimeconfig.dev.json
+F:\WorkSpace\eCFRAnalysis\eCFRApp\bin\Debug\netcoreapp2.2\eCFRAnalyis.dll
+F:\WorkSpace\eCFRAnalysis\eCFRApp\bin\Debug\netcoreapp2.2\eCFRAnalyis.pdb
+F:\WorkSpace\eCFRAnalysis\eCFRApp\obj\Debug\netcoreapp2.2\eCFRAnalyis.csproj.CoreCompileInputs.cache
+F:\WorkSpace\eCFRAnalysis\eCFRApp\obj\Debug\netcoreapp2.2\eCFRAnalyis.RazorAssemblyInfo.cache
+F:\WorkSpace\eCFRAnalysis\eCFRApp\obj\Debug\netcoreapp2.2\eCFRAnalyis.RazorAssemblyInfo.cs
+F:\WorkSpace\eCFRAnalysis\eCFRApp\obj\Debug\netcoreapp2.2\eCFRAnalyis.AssemblyInfoInputs.cache
+F:\WorkSpace\eCFRAnalysis\eCFRApp\obj\Debug\netcoreapp2.2\eCFRAnalyis.AssemblyInfo.cs
+F:\WorkSpace\eCFRAnalysis\eCFRApp\obj\Debug\netcoreapp2.2\eCFRAnalyis.RazorTargetAssemblyInfo.cache
+F:\WorkSpace\eCFRAnalysis\eCFRApp\obj\Debug\netcoreapp2.2\eCFRAnalyis.dll
+F:\WorkSpace\eCFRAnalysis\eCFRApp\obj\Debug\netcoreapp2.2\eCFRAnalyis.pdb
+F:\WorkSpace\eCFRAnalysis\eCFRApp\obj\Debug\netcoreapp2.2\eCFRAnalyis.csprojAssemblyReference.cache
